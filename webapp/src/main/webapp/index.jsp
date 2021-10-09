@@ -1,3 +1,1 @@
 <h1> Hello, Welcome to Simple DevOps Project !!   </h1>
-<h2> Deploying on remote tomcat server </h2>
-<h2> thank got works </h2>
